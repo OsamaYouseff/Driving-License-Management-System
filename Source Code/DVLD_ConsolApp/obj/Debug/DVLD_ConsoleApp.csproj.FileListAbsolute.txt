@@ -1,0 +1,12 @@
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactsConsolApp.exe.config
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactsConsolApp.exe
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactsConsolApp.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\obj\Debug\DVLD_ConsoleApp.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\obj\Debug\DVLD_ConsoleApp.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\obj\Debug\DVLD_Con.09AC4B96.Up2Date
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\obj\Debug\ContactsConsolApp.exe
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_ConsolApp\obj\Debug\ContactsConsolApp.pdb

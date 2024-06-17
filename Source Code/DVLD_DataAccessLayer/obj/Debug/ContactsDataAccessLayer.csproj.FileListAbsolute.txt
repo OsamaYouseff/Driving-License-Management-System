@@ -1,0 +1,18 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

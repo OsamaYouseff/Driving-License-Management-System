@@ -1,0 +1,31 @@
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactBusinessLayer.dll
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CopyComplete
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\ContactBusinessLayer.dll
+F:\testing\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\DVLD_Bus.693E2707.Up2Date
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonBusinessLayer\obj\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD BusinessLayer\obj\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD BusinessLayer\obj\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\bin\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\obj\Debug\DVLD_Bus.693E2707.Up2Date
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\obj\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_BusinessLayer\obj\Debug\ContactBusinessLayer.pdb

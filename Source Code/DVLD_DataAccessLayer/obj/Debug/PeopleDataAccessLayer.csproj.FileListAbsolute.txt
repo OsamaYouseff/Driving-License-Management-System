@@ -1,0 +1,12 @@
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsDataAccessLayer\obj\Debug\PeopleDataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsDataAccessLayer\obj\Debug\PeopleDataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\PeopleDataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\PeopleDataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

@@ -1,0 +1,9 @@
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\bin\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\obj\Debug\PersonsBusinessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\obj\Debug\PersonsBusinessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\obj\Debug\PersonsBusinessLayer.csproj.CopyComplete
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\obj\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonsBusinessLayer\obj\Debug\ContactBusinessLayer.pdb

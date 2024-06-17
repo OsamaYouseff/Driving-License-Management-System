@@ -1,0 +1,37 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsConsolApp.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CopyComplete
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe.config
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactsConsolApp.pdb
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CopyComplete
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\obj\Debug\ContactsConsolApp.exe
+H:\Programming\CS Programming advices course\course-18\Download Files\ContactsSolution\ContactsConsolApp\obj\Debug\ContactsConsolApp.pdb
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe.config
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactsConsolApp.exe
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactsConsolApp.pdb
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactBusinessLayer.dll
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactBusinessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\obj\Debug\ContactsConsolApp-PresentationLayer.csproj.CopyComplete
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\obj\Debug\ContactsConsolApp.exe
+H:\Programming\CS Programming advices course\course-18\11-Contacts App with 3 tier layers\ContactsConsolApp\obj\Debug\ContactsConsolApp.pdb

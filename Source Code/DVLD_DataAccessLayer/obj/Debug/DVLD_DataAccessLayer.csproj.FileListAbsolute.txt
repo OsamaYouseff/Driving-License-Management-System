@@ -1,0 +1,24 @@
+F:\testing\course-19\Driving License Management\PersonDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\testing\course-19\Driving License Management\PersonDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\testing\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+F:\testing\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\testing\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+F:\testing\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\PersonDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD DataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD DataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD DataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD DataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_DataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_DataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_DataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+H:\Programming\CS Programming advices course\course-19\Driving License Management\DVLD_DataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
